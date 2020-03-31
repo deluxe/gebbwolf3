@@ -11,4 +11,9 @@ xcuserdata
 # Compilation product and byproducts
 /build/
 /output/
+/src/screenshots*/386_layout_drawing.png
+/src/screenshots*/386_packaging_die.png
+/src/screenshots*/bsp_map.png
+/src/screenshots*/clear_screen_pixels.png
+/src/screenshots*/lines.png
 *.pdf
